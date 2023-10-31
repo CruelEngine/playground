@@ -1,5 +1,9 @@
-# Playground
-
+# DatePicker and manual date entry
+1. user should be able to enter date manually.
+2. user should be able to pick date from datepicker.
+3. if user enter date manually then validate it in mm/dd/yyyy. If it is invalid then show error message.
+4. if user enter correct date and again enter date which is incorrect then previuos date should be reset on UI
+  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
